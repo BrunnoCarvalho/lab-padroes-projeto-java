@@ -1,18 +1,18 @@
-## Getting Started
+# Design Patterns: Padrões “GoF”
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório tem como objetivo explorar alguns padrões de projeto GoF ('Gang of Four'). Estes padrões consistem de uma solução geral para problemas comuns encontrados em projetos de software.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Padrões explorados:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Padrões de criação:**
+- Singleton
+- Builder
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**Padrões Estruturais:**
+- Strategy
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Padrões Comportamentais:**
+- Facade
